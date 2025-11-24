@@ -1,6 +1,6 @@
 # main.py
 # semantic search imports (add near top)
-from sentence_transformers import SentenceTransformer, util
+#from sentence_transformers import SentenceTransformer, util
 import numpy as np
 import time
 import os
